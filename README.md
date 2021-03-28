@@ -1,23 +1,23 @@
 ### React - Redux first Project.
 ***
 ### Container
-Approaches to redux components and get states.
+1. Approaches to redux components and get states.
 
-Dispatches actions.
+2. Dispatches actions.
 
-Connect reducers to store.
+3. Connect reducers to store.
 
 ### Components (presentational)
-Gets props, and then renders in screen.
+* Gets props, and then renders in screen.
 
 ### Modules
-Includes all the functions and definition using in redux.
+* Includes all the functions and definition using in redux.
 
 - Action
 - Action definition function
 - Initial State object
 - Reducer
 
-<span style = "color: powderblue">Reducer</span>
+### Reducer
 * In personal opinion, reducer function includes
     **EventFunctions body.**
